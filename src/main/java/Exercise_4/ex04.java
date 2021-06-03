@@ -1,3 +1,8 @@
+/*
+* UCF COP 3330 Summer 2021 Assignment 1 Solutions
+* Copyright 2021 Charlene Creighton
+ */
+
 package Exercise_4;
 /*
 Create a simple mad-lib program that prompts for a noun, a verb, an adverb,
